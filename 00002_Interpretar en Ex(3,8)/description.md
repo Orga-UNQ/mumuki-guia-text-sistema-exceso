@@ -1,0 +1,1 @@
+¿Cual es el valor de la cadena ```000``` en EX(3,8)?
