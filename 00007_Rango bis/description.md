@@ -1,0 +1,1 @@
+¿Cuál es el máximo valor representable en un sistema EX(5,31)?
