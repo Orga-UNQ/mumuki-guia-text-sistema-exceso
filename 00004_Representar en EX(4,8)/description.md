@@ -1,0 +1,1 @@
+¿Cual es la cadena que representa el valor -1 en el sistema EX(4,8)?
